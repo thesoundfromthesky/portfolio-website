@@ -145,6 +145,7 @@
 
 					// Activate section.
 						$(this).removeClass('inactive');
+						/* edited here */
 						$(this).addClass('bounce-effect');
 				}
 			})

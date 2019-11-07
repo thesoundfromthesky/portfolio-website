@@ -3010,6 +3010,7 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			width: 25em;
+			/* edited here */
 			transition: transform 1s linear;
 		}
 
